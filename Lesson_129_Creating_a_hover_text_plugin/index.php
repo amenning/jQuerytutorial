@@ -6,7 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<a href="http://www.google.co.uk" title="A powerful search engine">Google</a>
+	<a href="http://www.google.co.uk" title="A powerful search engine">Google</a><br />
+	<a href="http://phpacademy.org" title="Video tutorials">phpacademy</a>
 	
 	<script type="text/javascript" src="..\..\jQuery_src\jquery-2.1.4.js"></script>
 	<script type="text/javascript" src="plugin.js"></script>
