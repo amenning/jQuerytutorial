@@ -1,0 +1,9 @@
+body{
+	margin-left: 50px;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+	background-color: #999;
+}
